@@ -1,13 +1,15 @@
-"posts":[
-    {
-        "id": "1",
-        "name": "hello"
-    }
-],
+{
+    "posts":[
+         {
+             "id": "1",
+            "name": "hello"
+         }
+    ],
     
-"profile":{
-    "age": "28",
-    "name": "fansai",
-    "height": "188",
-    "bodyWeight": "80kg"
+    "profile":{
+        "age": "28",
+        "name": "fansai",
+        "height": "188",
+        "bodyWeight": "80kg"
+    }
 }
